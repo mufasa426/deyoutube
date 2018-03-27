@@ -27,4 +27,19 @@ ab rir carpeta
 
 
     git show  // muesrta lasm odificacioens en tre lso commits 
-    
+
+
+
+
+    // crear a otra linea temporal
+
+
+     git branch nombreLineatemporal
+
+
+// ver lienas temporales
+   git branch
+
+   // cambiar a otra liena temporal
+
+   git checkout nombreLineatemporal
