@@ -24,3 +24,7 @@ ab rir carpeta
 
      cambios la wea 
 
+
+
+    git show  // muesrta lasm odificacioens en tre lso commits 
+    
