@@ -1,0 +1,26 @@
+ab rir carpeta 
+ abrir git bash here 
+
+
+  luegio hacer git init 
+
+
+   luego hacer 
+   git commit --m //comentariso de la compilada 
+
+    luego inicializar datos del programador 
+
+     git config --global user.name
+     git config --global user.email
+
+
+
+     git status
+
+
+     git checkout   -- nombre del archivo // buscar  modificaciones
+
+
+
+     cambios la wea 
+
